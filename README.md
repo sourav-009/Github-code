@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/sourav-009/Github-code/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/sourav-009/Github-code/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sourav-009/Github-code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Greedy
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/sourav-009/Github-code/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sourav-009/Github-code/tree/master/0345-reverse-vowels-of-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sourav-009/Github-code/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
